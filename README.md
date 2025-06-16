@@ -38,7 +38,3 @@ I’ll appreciate your support, Sawwik 👋.
 
 ## Authors
 - [@Sawwik](https://github.com/Sawwik).
-
-<style>
-
-</style>
